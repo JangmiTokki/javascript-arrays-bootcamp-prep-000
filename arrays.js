@@ -1,13 +1,15 @@
-function addElementToBeginningOfArray (){
+function addElementToBeginningOfArray (array, element){
   
 }
 
-function destructivelyAddElementToBeginningOfArray(){
+function destructivelyAddElementToBeginningOfArray(array, element){
   
 }
 
-function addElementToEndOfArray(){
+function addElementToEndOfArray(array, element){
   
 }
 
-function destructivelyAddElementToBeginningOfArray
+function destructivelyAddElementToEndOfArray(){
+  
+}
